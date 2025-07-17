@@ -7,10 +7,7 @@
 
 | Property | Details |
 |----------|---------|
-| **Phase Name** | Implementation (Core Devel#### **TASK-IMP-006: Analytics and Recommendation Implementation** 🟡 High
-- **Duration**: 21 days (November 16 - December 7, 2025)
-- **Owner**: Analytics Engineer + Backend Engineer
-- **Status**: 🔲 Not Startednt) |
+| **Phase Name** | Implementation (Core Development) |
 | **Duration** | 12 weeks |
 | **Start Date** | July 17, 2025 (Early Start) |
 | **End Date** | October 7, 2025 |
